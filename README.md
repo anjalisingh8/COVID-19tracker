@@ -1,3 +1,4 @@
+#Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## About
 A live COVID-19 tracker (deaths, cases, recovered) for **217 countries** around the world! Written in Javascript, HTML & CSS
 #### Please Star if you fork or create a pull request so others can find the project too! :)
@@ -19,3 +20,10 @@ Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
+
+![](https://img.shields.io/badge/<Code>-<Javascript>-informational?style=flat&logo=<Javascript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<HTML>-informational?style=flat&logo=<HTML>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Styling>-<CSS>-informational?style=flat&logo=<CSS>&logoColor=white&color=2bbc8a)
+
+
+
